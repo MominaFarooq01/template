@@ -55,7 +55,7 @@ body {
   background-image: url(/assets/images/mac.jpg);
   background-position: center;
   background-size: cover;
-  height: 530px;
+  height: 550px;
 }
 
 .main {
@@ -500,4 +500,6 @@ td {
 
 .footer-link {
   color: #fff;
-}/*# sourceMappingURL=style.css.map */
+}
+
+/*# sourceMappingURL=style.css.map */
